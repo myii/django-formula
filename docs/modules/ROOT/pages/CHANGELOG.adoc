@@ -1,0 +1,41 @@
+= Changelog
+
+:sectnums!:
+
+== link:++https://github.com/saltstack-formulas/django-formula/compare/v0.4.0...v0.5.0++[0.5.0^] (2019-11-25)
+
+=== Bug Fixes
+
+* *yamllint:* fix all errors
+(https://github.com/saltstack-formulas/django-formula/commit/773aab892cae3f69764514c776bc93209750007b[773aab8^])
+
+=== Documentation
+
+* *changelog:* update according to standard structure
+(https://github.com/saltstack-formulas/django-formula/commit/07eec72c95f4eddde22f4720f92cee8557c60438[07eec72^])
+* *readme:* modify according to standard structure
+(https://github.com/saltstack-formulas/django-formula/commit/94e3e89716f42bd11bd498f18bc92aa9e13b7a4a[94e3e89^])
+* *readme:* move to `docs/` directory
+(https://github.com/saltstack-formulas/django-formula/commit/4db7d05fe06dd91f9e54d5a870c7d0d8ae428961[4db7d05^])
+
+=== Features
+
+* *semantic-release:* implement for this formula
+(https://github.com/saltstack-formulas/django-formula/commit/77bc3a95cfb670a7b9b1cff3002b27aa42bb1d38[77bc3a9^])
+
+== link:++https://github.com/saltstack-formulas/django-formula/tree/v0.4.0++[v0.4.0^] (2015-06-22)
+
+*Merged pull requests:*
+
+* Fix Typo in Word Settings
+https://github.com/saltstack-formulas/django-formula/pull/5[#5^]
+(https://github.com/rspt[rspt^])
+* Change states to use short-dec style
+https://github.com/saltstack-formulas/django-formula/pull/4[#4^]
+(https://github.com/whiteinge[whiteinge^])
+* Update README.rst
+https://github.com/saltstack-formulas/django-formula/pull/3[#3^]
+(https://github.com/ghost[ghost^])
+* Some fixes to make this formula work on Ubuntu 14.04 LTS
+https://github.com/saltstack-formulas/django-formula/pull/2[#2^]
+(https://github.com/terminalmage[terminalmage^])
